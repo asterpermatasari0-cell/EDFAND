@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix The Brothers Influence (TBI) Digital Library Portal",
+  "description": "Portal Perpustakaan Digital \u0026 Intelijen Arsip Esoteris-Realis The Brothers Influence (TBI-ARCHIVE-SYSTEM v3.0.0).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
